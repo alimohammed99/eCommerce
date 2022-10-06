@@ -58,7 +58,9 @@
 
          @endforeach 
          
- 
+     <!-- YOU MUST DIFFERENT FOREACH. I MEAN FOREACH DATA AS DATA WILL NOT WORK. FOREACH DATA AS PIE WILL WORK. -->
+         <!-- YOU MUST DIFFERENT FOREACH. I MEAN FOREACH DATA AS DATA WILL NOT WORK. FOREACH DATA AS PIE WILL WORK. -->
+          <!-- YOU MUST DIFFERENT FOREACH. I MEAN FOREACH DATA AS DATA WILL NOT WORK. FOREACH DATA AS PIE WILL WORK. -->
            @if(method_exists($data, 'links'))
 
              <div class="d-flex">
